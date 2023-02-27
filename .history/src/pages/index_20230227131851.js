@@ -145,7 +145,7 @@ export default function Home() {
         {/* <h1>Home</h1> */}
         <div className="flex justify-around mt-6">
           <div className="flex justify-center">
-            <Image src="/Logo1.png" width={300} height={300} />
+            <Image src="/logo.png" width={300} height={300} />
           </div>
           <div className="flex flex-col justify-center items-center gap-2">
             <h1 className="text-3xl text-amber-300 ">Vancouver, B.C. Weather</h1>
